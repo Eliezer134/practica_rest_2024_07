@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
-public class HolaMundoController {
+public class HelloWorldController {
 
   private final String HELLO_SERVICE = "/service";
   private final String HELLO_REPOSITORY = "/repository";
